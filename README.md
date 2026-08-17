@@ -133,7 +133,6 @@ Verilog HDL · AMD/Xilinx Vivado · AXI4-Stream · RTL Design · RTL Simulation 
 Learning Outcomes
 
 This project provided practical experience in:
-
 Custom RTL development for FPGA video interfaces
 AXI4-Stream video protocol signaling
 Native video timing and pixel-position tracking
@@ -143,4 +142,10 @@ RTL simulation and waveform-based functional verification
 
 ## Author
 **Pranavi Pagidi**
-FPGA Design & Verification Intern — HTIC, IIT Madras Research Park
+FPGA Design & Verification Intern
+HTIC, IIT Madras Research Park
+
+GitHub: [pagidipranavidas](https://github.com/pagidipranavidas)
+
+LinkedIn: [pagidi pranavi](https://www.linkedin.com/in/pagidi-pranavi-a00b77280)
+
