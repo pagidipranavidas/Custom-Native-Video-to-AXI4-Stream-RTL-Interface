@@ -142,6 +142,7 @@ RTL simulation and waveform-based functional verification
 
 ## Author
 **Pranavi Pagidi**
+
 FPGA Design & Verification Intern
 HTIC, IIT Madras Research Park
 
