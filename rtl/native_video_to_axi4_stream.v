@@ -72,21 +72,6 @@ module native_video_to_axi4_stream #(
     end
   end
 
-   /* always @(posedge clk) begin
-        if (rst) begin
-            tvalid <= 1'b0;
-            tdata  <= {data{1'b0}};
-            tuser  <= 1'b0;
-            tlast  <= 1'b0;
-        end
-        else begin
-            tvalid <= active_video;
-            tdata  <= active_video ? native_data : {data{1'b0}};
-            tuser  <= active_video && (h_count == 16'd0) && (v_count == 16'd0);   // start of frame
-            tlast  <= active_video && (h_count == active_hsize - 1);              // end of line
-        end
-    end
-endmodule */
     // ---------------------------------------------------------
     // AXI4-Stream video signals
     // Derived directly from the CURRENT timing position.
